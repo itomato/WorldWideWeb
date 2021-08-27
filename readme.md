@@ -10,16 +10,6 @@ The original source was obtained from [this site](http://browsers.evolt.org/brow
 Notes
 -----
 
-I have no idea how to make this compile or run. This repository was created
-as a means of archiving a piece of history. The original software was written
-on a NextStep computer, using NextStep specific APIs. (And no, they are not
-compatible with Cocoa. I checked.)
-
-It may be possible to build and run this on a NextStep emulator such as
-[Previous](http://previous.alternative-system.com), but I don't know if anyone
-has tried and succeeded.
-
-If you ever do get this to run, please let me know!
 
 Original Readme
 ---------------
